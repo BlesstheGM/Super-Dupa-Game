@@ -28,7 +28,7 @@
 Welcome to Super Dupa Game! This is a fun, platforming adventure game inspired by classic 2D Mario-style games. The objective is to navigate various levels, collect coins, avoid obstacles, and defeat enemies, all while facing different challenges.
 
 <video width="320" height="240" controls>
-  <source src="screenshots/super-dupa.mp4" type="video/mp4">
+  <source src="assets/screenshots/super-dupa.mp4" type="video/mp4">
 </video>
 
 ### Prerequisites <a name = "pre"></a>
