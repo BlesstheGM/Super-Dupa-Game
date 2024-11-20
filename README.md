@@ -44,7 +44,7 @@ Requirements
 Python 3.x
 Pygame library
 
-Setup Instructions
+<h2>Setup Instructions</h2>
 <br>
 1. Clone or download this repository to your local machine.
 2. Install Pygame by running<br>
@@ -56,6 +56,7 @@ Setup Instructions
 
 ## 🎈 How to play? <a name = "play"></a>
 <h3>Game Controls</h3>
+
 - <b>Arrow Keys:</b> Move your character left, right, or up/down.
 - <b>Spacebar:</b> Make your character jump.
 - <b>P:</b> Pause or resume the game.
