@@ -63,7 +63,7 @@ Pygame library
 - <b>P:</b> Pause or resume the game.
 - <b>Esc:</b> Quit the game.
 
-<h2>Hint: To finish level 3, zone 2</h2>
+<h1>Hint:  Finish level 3, zone 2</h1>
 
 - Stand directly next to the warp-pipe on the left(safe zone)
 - wait for 20 seconds after the initial start of zone 2
