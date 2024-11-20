@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="assets/logo.jpg" alt="Project logo"></a>
+ <img width=130px height=130px src="assets/logo.jpg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Super Dupa Game</h3>
@@ -27,8 +27,8 @@
 
 Welcome to Super Dupa Game! This is a fun, platforming adventure game inspired by classic 2D Mario-style games. The objective is to navigate various levels, collect coins, avoid obstacles, and defeat enemies, all while facing different challenges.
 
-<img width=200px height=200px src="assets/screenshots/screenshot2.png">
-[Gameplay Demo](assets/screenshots/super-dupa.mp4)
+<img width=270px height=270px src="assets/screenshots/screenshot2.png">
+[Gameplay Demo]("assets/screenshots/super-dupa.mp4")
 
 
 
