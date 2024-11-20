@@ -1,0 +1,14 @@
+# Game settings
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+FPS = 60
+
+# Colors
+SKY_BLUE = (135, 206, 250)
+WHITE = (255, 255, 255)
+YELLOW = (255, 223, 0)
+RED = (255, 0, 0)
+
+# Physics
+GRAVITY = 0.5
+JUMP_STRENGTH = -12
